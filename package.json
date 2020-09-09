@@ -9,7 +9,7 @@
   "engine": {
     "node": ">=6.0.0"
   },
-  "keywords": [],
+  "keywords": ["new"],
   "author": "Dan Thareja <danthareja@gmail.com>",
   "license": "MIT",
   "bugs": {
